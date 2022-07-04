@@ -14,6 +14,7 @@ body {
 section {
 
     display: flex;
+    margin-bottom: 100px;
 
 }
 
@@ -48,4 +49,17 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.mid-ban {
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+p {
+
+    text-align: justify;
 }
