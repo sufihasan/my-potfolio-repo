@@ -11,7 +11,7 @@ body {
     margin: 0;
 }
 
-section {
+.flex-secton {
 
     display: flex;
     margin-bottom: 100px;
@@ -62,4 +62,11 @@ section {
 p {
 
     text-align: justify;
+}
+
+.lastbefore-sec {
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
